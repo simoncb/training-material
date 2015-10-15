@@ -7,7 +7,7 @@ A list of links to useful online training material
 ##Javascript
 * https://www.khanacademy.org/computing/computer-programming/html-css-js
 * http://code.tutsplus.com/series/data-structures-in-javascript--cms-772
-* 
+
 ###NodeJS
 
 ###jQuery
@@ -15,6 +15,7 @@ A list of links to useful online training material
 
 ###AngularJS
 * http://code.tutsplus.com/categories/angularjs
+
 ##Java
 * http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm
 
@@ -92,5 +93,4 @@ A list of links to useful online training material
 * http://sabio.la/training
 * http://www.fullstacktraining.com/courses
 * http://www.fullstackacademy.com/
-* 
 
