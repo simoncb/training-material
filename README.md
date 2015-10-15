@@ -23,9 +23,7 @@ A list of links to useful online training material
 
 ###MySQL
 
-###Redis
-
-###
+###DB2
 
 ##Testing
 
@@ -33,11 +31,11 @@ A list of links to useful online training material
 
 ###Automated Testing
 
+####Selenium
+
 ##Dev ops
 
 ###Puppet
-
-###Chef
 
 ###CI
 
@@ -62,6 +60,18 @@ A list of links to useful online training material
 ###Git
 
 ####Stash
+
+##Hosting
+
+###AWS
+####EC2
+
+###Webservers
+
+####Apache
+
+####Nginx
+
 
 ##Misc
 
