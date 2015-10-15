@@ -51,7 +51,7 @@ A list of links to useful online training material
 
 ##Metrics
 
-###New Relics
+###New Relic
 
 ##Security
 
