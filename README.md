@@ -61,12 +61,14 @@ A list of links to useful online training material
 
 ###Git
 * http://tutsplus.com/tutorials/search?utf8=%E2%9C%93&search%5Btopic%5D=&search%5Bterms%5D=git&button=
+
 ####Stash
 
 ##Hosting
 
 ###AWS
 * http://code.tutsplus.com/categories/amazon-web-services
+
 ####EC2
 
 ###Webservers
